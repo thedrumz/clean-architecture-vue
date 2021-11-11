@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "serialNumber": "11111",
+    "name": "My charger",
+    "typeName": "Pulsar Plus",
+    "status": 161
+  },
+  {
+    "id": 2,
+    "serialNumber": "22222",
+    "name": "",
+    "typeName": "Commander",
+    "status": 180
+  },
+  {
+    "id": 3,
+    "serialNumber": "33333",
+    "name": "",
+    "typeName": "Pulsar",
+    "status": 196
+  },
+  {
+    "id": 4,
+    "serialNumber": "44444",
+    "name": "My Quasar",
+    "typeName": "Quasar",
+    "status": null
+  }
+]
